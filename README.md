@@ -8,14 +8,18 @@ Email: mmj649@gmail.com
 Files included:
 
 - README.md
+  
 **WeatherPy**
+
 - WeatherPy copy_MWalton.ipynb
 - MWalton_cities.csv
 - MWalton_Fig1.png
 - MWalton_Fig2.png
 - MWalton_Fig3.png
 - MWalton_Fig4.png
+  
 **VactionPy**
+
 - VacationPy_MWalton.ipynb
   
 **References**
