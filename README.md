@@ -6,6 +6,7 @@ Student: Mireille Walton,
 Email: mmj649@gmail.com 
 
 Files included:
+
 - README.md
 **WeatherPy**
 - WeatherPy copy_MWalton.ipynb
@@ -14,7 +15,7 @@ Files included:
 - MWalton_Fig2.png
 - MWalton_Fig3.png
 - MWalton_Fig4.png
-**PyPoll**
+**VactionPy**
 - VacationPy_MWalton.ipynb
   
 **References**
