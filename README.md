@@ -1,6 +1,22 @@
 # python-api-challenge
 Module 6 Assignment
+MONU-VIRT-DATA-PT-05-2023-U-LOLC-MTTH
 
+Student: Mireille Walton,
+Email: mmj649@gmail.com 
+
+Files included:
+- README.md
+**WeatherPy**
+- WeatherPy copy_MWalton.ipynb
+- MWalton_cities.csv
+- MWalton_Fig1.png
+- MWalton_Fig2.png
+- MWalton_Fig3.png
+- MWalton_Fig4.png
+**PyPoll**
+- VacationPy_MWalton.ipynb
+  
 **References**
 -	W3 Schools, date unknown, “Matplotlib Scatter”, https://www.w3schools.com/python/matplotlib_scatter.aspW3, accessed 8 July 2023
 -	W3 Schools, date unknown, “Matplotlib Markers”, https://www.w3schools.com/python/matplotlib_markers.asp, accessed 8 July 2023
