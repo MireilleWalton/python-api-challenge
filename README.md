@@ -11,18 +11,19 @@ Email: mmj649@gmail.com
 
 **PLEASE REFER TO 'PROJECT FILES' FOLDER FOR STUDENT SUBMISSION**
   
-**WeatherPy**
-
-- WeatherPy copy_MWalton.ipynb
-- MWalton_cities.csv
-- MWalton_Fig1.png
-- MWalton_Fig2.png
-- MWalton_Fig3.png
-- MWalton_Fig4.png
-  
 **VactionPy**
 
-- VacationPy_MWalton.ipynb
+- Project/VacationPy_MWalton.ipynb
+
+**WeatherPy**
+
+- Project/WeatherPy copy_MWalton.ipynb
+
+- Project/out_data/MWalton_cities.csv
+- Project/out_data/MWalton_Fig1.png
+- Project/out_data/MWalton_Fig2.png
+- Project/out_data/MWalton_Fig3.png
+- Project/out_data/MWalton_Fig4.png
   
 **References**
 -	W3 Schools, date unknown, “Matplotlib Scatter”, https://www.w3schools.com/python/matplotlib_scatter.aspW3, accessed 8 July 2023
